@@ -24,6 +24,7 @@ users = {
         'age': 36,
         'roles': ['user'],
         'email': 'sadik@gmail.com',
+        
         'address': 'kocaeli',
         'phone': '123132'
     },
